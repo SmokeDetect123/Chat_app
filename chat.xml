@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<chat>
+  <message>
+    <username>steen</username>
+    <content>hello</content>
+  </message>
+  <message>
+    <user>User</user>
+    <text>hello peeps</text>
+  </message>
+  <message>
+    <user>User</user>
+    <text>what u doin?</text>
+  </message>
+  <message>
+    <user>Rex</user>
+    <text>hi i am rex</text>
+  </message>
+  <message>
+    <user>User</user>
+    <text>good</text>
+  </message>
+  <message>
+    <Steen>User</Steen>
+    <text>hi</text>
+  </message>
+  <message>
+    <user>Steen</user>
+    <text>hi</text>
+  </message>
+</chat>
